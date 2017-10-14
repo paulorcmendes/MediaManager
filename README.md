@@ -1,2 +1,2 @@
 # MediaManager
-With this program you can manage all your medias in different repositories. You can filter them by extensions, delete and even play them.
+With this program you can manage all your medias. It is possible to add different repositories, to organize them by extensions, delete, and even play them.
